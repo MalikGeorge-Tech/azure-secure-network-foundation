@@ -3,7 +3,7 @@
 ## Phase 1 🔄 In Progress
 
 - [x] VNet + subnets designed
-- [] NSG with explicit rules
+- [x] NSG with explicit rules
 - [] Storage account hardened
 - [] Private Endpoint created
 - [] Private DNS zone + VNet link
