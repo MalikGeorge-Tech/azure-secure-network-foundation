@@ -2,7 +2,7 @@
 
 ## Phase 1 🔄 In Progress
 
-- [] VNet + subnets designed
+- [x] VNet + subnets designed
 - [] NSG with explicit rules
 - [] Storage account hardened
 - [] Private Endpoint created
