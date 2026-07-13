@@ -4,8 +4,8 @@
 
 - [x] VNet + subnets designed
 - [x] NSG with explicit rules
-- [] Storage account hardened
-- [] Private Endpoint created
+- [x] Storage account hardened
+- [x] Private Endpoint created
 - [] Private DNS zone + VNet link
 - [] In-VNet validation
 - [] Break/fix DNS case study
