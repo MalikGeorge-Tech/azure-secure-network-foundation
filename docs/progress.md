@@ -6,7 +6,7 @@
 - [x] NSG with explicit rules
 - [x] Storage account hardened
 - [x] Private Endpoint created
-- [] Private DNS zone + VNet link
+- [x] Private DNS zone + VNet link
 - [] In-VNet validation
 - [] Break/fix DNS case study
 - [] Documentation + screenshots
