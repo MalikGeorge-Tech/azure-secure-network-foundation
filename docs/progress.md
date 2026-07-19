@@ -9,7 +9,7 @@
 - [x] Private DNS zone + VNet link
 - [x] In-VNet validation
 - [x] Break/fix DNS case study
-- [] Documentation + screenshots
+- [x] Documentation + screenshots
 
 ## Phase 2 🔄 In Progress
 
