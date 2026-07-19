@@ -7,8 +7,8 @@
 - [x] Storage account hardened
 - [x] Private Endpoint created
 - [x] Private DNS zone + VNet link
-- [] In-VNet validation
-- [] Break/fix DNS case study
+- [x] In-VNet validation
+- [x] Break/fix DNS case study
 - [] Documentation + screenshots
 
 ## Phase 2 🔄 In Progress
